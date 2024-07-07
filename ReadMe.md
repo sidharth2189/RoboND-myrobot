@@ -11,7 +11,7 @@ Overview of [Gazebo](https://gazebosim.org/home) through a two-wheeled robot mod
 ### Directory structure
     .myrobot                           # myrobot lab main folder 
     ├── images                         # Code output image                   
-    │   ├── output.png
+    │   ├── myrobot.png
     ├── model                          # Model files of the two-wheeled robot
     │   ├── robot
     │   │   ├── model.config
