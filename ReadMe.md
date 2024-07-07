@@ -47,7 +47,7 @@ gazebo
 
     * Update and upgrade the Workspace
     ```
-    sudo apt-get update
+    sudo apt-get update && sudo apt-get upgrade -y
     ```
     * Clone the lab folder in /home/workspace/
     ```
