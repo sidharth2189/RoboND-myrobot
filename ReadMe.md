@@ -16,6 +16,9 @@ Overview of [Gazebo](https://gazebosim.org/home) through a two-wheeled robot mod
     │   ├── robot
     │   │   ├── model.config
     │   │   ├── model.sdf
+    │   ├── mybuilding
+    │   │   ├── model.config
+    │   │   ├── model.sdf
     ├── script                         # Gazebo World plugin C++ script      
     │   ├── hello.cpp
     ├── world                          # Gazebo main World empty scene
